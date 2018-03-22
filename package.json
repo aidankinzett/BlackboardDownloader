@@ -1,0 +1,19 @@
+{
+  "name": "blackboarddownloader",
+  "version": "1.0.0",
+  "description": "Download things from blackboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidankinzett/BlackboardDownloader.git"
+  },
+  "author": "Aidan Kinzett",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aidankinzett/BlackboardDownloader/issues"
+  },
+  "homepage": "https://github.com/aidankinzett/BlackboardDownloader#readme"
+}
