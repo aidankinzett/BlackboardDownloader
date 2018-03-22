@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aidankinzett/BlackboardDownloader/issues"
   },
-  "homepage": "https://github.com/aidankinzett/BlackboardDownloader#readme"
+  "homepage": "https://github.com/aidankinzett/BlackboardDownloader#readme",
+  "dependencies": {
+    "nightmare": "^3.0.0",
+    "nightmare-download-manager": "^0.2.5",
+    "nightmare-inline-download": "^0.2.2"
+  }
 }
